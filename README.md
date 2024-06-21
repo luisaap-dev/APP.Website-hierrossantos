@@ -13,7 +13,7 @@ Este proyecto es una aplicación de React que utiliza React Router para el enrut
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/luisaap-dev/APP.hierrossantos.git
+   git clone https://github.com/luisaap-dev/APP.Website-hierrossantos
 
 ## Autor
 
